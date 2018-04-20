@@ -1,0 +1,6 @@
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\Broadcast\bin\Debug\Broadcast.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\Broadcast\bin\Debug\Broadcast.exe
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\Broadcast\bin\Debug\Broadcast.pdb
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\Broadcast\obj\Debug\Broadcast.csprojResolveAssemblyReference.cache
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\Broadcast\obj\Debug\Broadcast.exe
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\Broadcast\obj\Debug\Broadcast.pdb

@@ -1,0 +1,6 @@
+F:\Study\LapTrinhMang\TH-Buoi-7\BtPing\BtPing\bin\Debug\BtPing.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-7\BtPing\BtPing\bin\Debug\BtPing.exe
+F:\Study\LapTrinhMang\TH-Buoi-7\BtPing\BtPing\bin\Debug\BtPing.pdb
+F:\Study\LapTrinhMang\TH-Buoi-7\BtPing\BtPing\obj\Debug\BtPing.csprojResolveAssemblyReference.cache
+F:\Study\LapTrinhMang\TH-Buoi-7\BtPing\BtPing\obj\Debug\BtPing.exe
+F:\Study\LapTrinhMang\TH-Buoi-7\BtPing\BtPing\obj\Debug\BtPing.pdb

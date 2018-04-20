@@ -1,0 +1,5 @@
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\ReceiveB\bin\Debug\ReceiveB.exe.config
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\ReceiveB\bin\Debug\ReceiveB.exe
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\ReceiveB\bin\Debug\ReceiveB.pdb
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\ReceiveB\obj\Debug\ReceiveB.exe
+F:\Study\LapTrinhMang\TH-Buoi-7\Broadcast\ReceiveB\obj\Debug\ReceiveB.pdb
